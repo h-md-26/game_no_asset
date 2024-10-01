@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ItemCell
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UIBloom
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGroundCanvas
+    uniqueID: 2549427651
+    locked: 0
+  - name: Rail
+    uniqueID: 777857379
+    locked: 0
+  - name: Node
+    uniqueID: 748112991
+    locked: 0
+  - name: Note
+    uniqueID: 1192883061
+    locked: 0
+  - name: GuideFrame
+    uniqueID: 1401062927
+    locked: 0
+  - name: JudgeFrame
+    uniqueID: 3067777867
+    locked: 0
+  - name: UI
+    uniqueID: 1512857559
+    locked: 0

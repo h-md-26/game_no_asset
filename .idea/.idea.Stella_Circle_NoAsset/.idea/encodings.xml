@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Assets/ABPackage/ABScripts/Editor/ScriptableBuild.cs" charset="Shift_JIS" />
+    <file url="file://$PROJECT_DIR$/Assets/ABPackage/ABScripts/NoTouchScripts/ABStockManager.cs" charset="Shift_JIS" />
+    <file url="file://$PROJECT_DIR$/Assets/ABPackage/ABScripts/NoTouchScripts/WebUtilities.cs" charset="Shift_JIS" />
+    <file url="PROJECT" charset="Shift_JIS" />
+  </component>
+</project>
