@@ -1,4 +1,4 @@
-# Stella_Circle_NoAsset
+# Game_NoAsset
  素材を抜いたゲームのリポジトリです
 
 
